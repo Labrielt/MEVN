@@ -1,0 +1,14 @@
+{
+  "name": "errores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-mountpath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Labrielt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
